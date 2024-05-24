@@ -9,3 +9,7 @@ with c1:
   st.write("hello")
 with c2:
   st.write("bye")
+
+st.markdown("---")
+
+st.metric(label="Cluster 0 Age", value = "75 years old", delta="+15")
