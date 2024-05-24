@@ -1,4 +1,5 @@
 # Cheat sheet
+import streamlit as st
 
 # Add markdown
 st.title ("this is the app title")
